@@ -1,0 +1,15 @@
+.navbar-app {
+  display:flex;
+  cursor: pointer;
+  justify-content: center;
+}
+
+.navbar-app div {
+  padding: 20px;
+  border: 1px solid black;
+  margin:5px
+}
+
+.navbar-app div:hover {
+  background-color: grey;
+}
