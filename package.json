@@ -7,7 +7,7 @@
     "react": "^16.8.6",
     "react-dom": "^16.8.6",
     "react-scripts": "3.0.1",
-    "single-spa": "^4.3.3",
+    "single-spa": "^4.3.4",
     "single-spa-react": "^2.10.1",
     "typescript": "3.4.5"
   },
